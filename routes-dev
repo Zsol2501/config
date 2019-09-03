@@ -1,2 +1,1 @@
-zuul.routes.server-a.path=/cc/**
-zuul.routes.server-a.serviceId=call-center
+
